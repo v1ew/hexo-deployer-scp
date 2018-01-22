@@ -1,0 +1,24 @@
+{
+  "name": "hexo-deployer-scp",
+  "version": "1.0.0",
+  "description": "Deploing hexo blogs by scp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v1ew/hexo-deployer-scp.git"
+  },
+  "keywords": [
+    "hexo",
+    "deploy",
+    "scp"
+  ],
+  "author": "Vitaliy Shakhov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v1ew/hexo-deployer-scp/issues"
+  },
+  "homepage": "https://github.com/v1ew/hexo-deployer-scp#readme"
+}
